@@ -27,7 +27,9 @@ config.action_mailer.delivery_method = :test
 # like if you have constraints or database-specific column types
 # config.active_record.schema_format = :sql
 
-config.gem 'rspec-rails', :version => '>= 1.3.2', :lib => false unless File.directory?(File.join(Rails.root, 'vendor/plugins/rspec-rails'))
+config.gem "rspec", :version => "1.3.0", :lib => false
+config.gem 'rspec-rails', :version => '1.3.2', :lib => false
 config.gem 'steak', :lib => false
 config.gem 'capybara', :lib => false
 config.gem 'webmock', :lib => false
+config.gem "capybara", :lib => false
