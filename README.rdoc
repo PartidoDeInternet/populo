@@ -1,4 +1,8 @@
-= NOTE: The development of Populo is being continued at http://github.com/PartidoDeInternet/AgoraOnRails
+= NOTE 
+
+The development of Populo is being continued at 
+
+* http://github.com/PartidoDeInternet/AgoraOnRails
 
 = Populo
 
